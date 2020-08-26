@@ -61,7 +61,7 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.7)
     execjs (2.5.2)
-    ffi (1.9.10)
+    ffi (1.13.1)
     git-version-bump (0.15.1)
     haml (4.0.6)
       tilt
